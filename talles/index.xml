@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talles on Zahira</title>
+    <link>https://martingdev.github.io/zahira/talles/</link>
+    <description>Recent content in Talles on Zahira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://martingdev.github.io/zahira/talles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>S</title>
+      <link>https://martingdev.github.io/zahira/talles/s/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/talles/s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xl</title>
+      <link>https://martingdev.github.io/zahira/talles/xl/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/talles/xl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xxl</title>
+      <link>https://martingdev.github.io/zahira/talles/xxl/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/talles/xxl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

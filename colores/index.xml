@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colores on Zahira</title>
+    <link>https://martingdev.github.io/zahira/colores/</link>
+    <description>Recent content in Colores on Zahira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://martingdev.github.io/zahira/colores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#0d47a1</title>
+      <link>https://martingdev.github.io/zahira/colores/#0d47a1/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/colores/#0d47a1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azul</title>
+      <link>https://martingdev.github.io/zahira/colores/azul/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/colores/azul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green</title>
+      <link>https://martingdev.github.io/zahira/colores/green/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/colores/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red</title>
+      <link>https://martingdev.github.io/zahira/colores/red/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/colores/red/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verde</title>
+      <link>https://martingdev.github.io/zahira/colores/verde/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://martingdev.github.io/zahira/colores/verde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
